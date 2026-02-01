@@ -1,5 +1,5 @@
 +++
-title = "Dr Medaka's School for Fish and Kanji Learners"
+title = "Dr Medaka's School for Fish and Kanji Learners (Season 1)"
 date = "2026-01-26"
 author = "Dr Medaka"
 cover = "hello.jpg"
@@ -14,5 +14,5 @@ Instructions: (1) Print 5 pages containing 5 AR markers:[Download ARMarkers for 
 NOTE: there are supposed to be 10 Kanji, however, asset size limits prevented delivery of 10 Kanji.  I'll update the Lens if I can get smaller assets in.  
 
 - The Reddit Lens Drop: https://www.reddit.com/r/Spectacles/comments/1qssong/dr_medakas_school_for_fish_and_kanji_learners_s1/
-- A youtube video with some instructions: 
+- A youtube video with some instructions: https://youtube.com/shorts/t2cByNZA9aA
 - Feedback: https://github.com/IoTone/drmedaka-www/issues
