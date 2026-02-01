@@ -14,7 +14,7 @@ theme = 'terminal'
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Dr. Medaka's Terminal"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -23,7 +23,7 @@ theme = 'terminal'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Dr. Medaka's Terminal"
       logoHomeLink = "/"
 
     [languages.en.menu]
