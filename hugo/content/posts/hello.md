@@ -1,18 +1,18 @@
 +++
-title = "Hello Friend"
-date = "2019-01-25"
-author = "Lorem Ipsum"
+title = "Dr Medaka's School for Fish and Kanji Learners"
+date = "2026-01-26"
+author = "Dr Medaka"
 cover = "hello.jpg"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
+description = "Welcome to the landing page for Dr Medaka's School for Fish and Kanji Learners http://foo.com"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+Welcome to the landing page for Dr Medaka's School for Fish and Kanji Learners.  
 
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
+Homework: Please download the PDF and print it.
+Instructions: (1) Print 5 pages containing 5 AR markers.  (2) Place AR markers in good lighting, around your home, mansion, or apartment.  (3) turn on the lights (4) launch the lens via snapcode: https://www.spectacles.com/lens/50143adace934c339d13ba8419e51cdc?type=SNAPCODE&metadata=01
 
-Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.
+NOTE: there are supposed to be 10 Kanji, however, asset size limits prevented delivery of 10 Kanji.  I'll update the Lens if I can get smaller assets in.  
 
-- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.
-- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.
-- Aenean facilisis ut ipsum condimentum ultrices.
-- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
+- The Reddit Lens Drop: https://www.reddit.com/r/Spectacles/comments/1qssong/dr_medakas_school_for_fish_and_kanji_learners_s1/
+- A youtube video with some instructions: 
+- Feedback: https://github.com/IoTone/drmedaka-www/issues
