@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dr Medakas School of Fish'
 theme = 'terminal'
 
 [markup.goldmark.renderer]
